@@ -1,0 +1,6 @@
+{
+  "name": "Kamus Bahasa Banggai",
+  "description": "Aplikasi kamus digital pintar bahasa Banggai ke bahasa Indonesia dengan ekstraksi kata pintar dan parser OCR data kamus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
